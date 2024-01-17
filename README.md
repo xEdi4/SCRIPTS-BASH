@@ -5,7 +5,7 @@ Script en Bash que emula las capacidades de búsqueda de una página web (https:
 [![Sin-t-tulo.png](https://i.postimg.cc/VNm7XjMr/Sin-t-tulo.png)](https://postimg.cc/LJQBpgx2)
 
 
-
+<br><br><br><br><br>
 
 
 # Desafío a la Ruleta en Bash
